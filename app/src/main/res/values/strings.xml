@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student2</string>
+
+    <string-array name="region">
+        <item>移动1811</item>
+        <item>移动1813</item>
+        <item>移动1823</item>
+        <item>移动1821</item>
+    </string-array>
+
+</resources>
